@@ -1,1 +1,1 @@
-.git,.gitignore,index.js,package.json,README.md
+.git,.gitignore,files.txt,index.js,package.json,README.md
